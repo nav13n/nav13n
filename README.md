@@ -2,7 +2,9 @@
 
 I am Naveen, an engineer interested in machine learning and distributed systems.    
 
-At Reliance Jio, I currently work on developing machine learning products across verticals. Prior to Jio; I worked with Civil Maps, Science Inc, GE and Oracle developing large scale distributed applications. In my free time I try to learn something, read books or indulge myself in cooking.
+At Reliance Jio, I currently work on developing machine learning products across verticals. Prior to Jio; I worked with Civil Maps, Science Inc, GE and Oracle developing large scale distributed applications.    
+
+
 
 <!--
 **nav13n/nav13n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 I am Naveen, an engineer interested in machine learning and distributed systems.    
 
-At Reliance Jio, I currently work on developing machine learning products across verticals. Prior to Jio; I worked with Civil Maps, Science Inc, GE and Oracle developing large scale distributed applications.    
+At Visa, I currently work on developing AI/ML Products and Systems. Prior to Visa; I worked with Jio, Civil Maps, Science Inc, GE and Oracle developing large scale distributed applications.    
 
 
 
